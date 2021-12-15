@@ -1,2 +1,4 @@
-# brainstorm
-Проект для организации работы по генерации идей
+﻿# Новый проект
+
+-[Проект](https://github.com/Education0rg/brainstorm/blob/main/project.md)
+-[Модель жизненного цикла](https://github.com/Education0rg/brainstorm/blob/main/lifecycle.md)
